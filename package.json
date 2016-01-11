@@ -1,0 +1,20 @@
+{
+  "name": "Web-Server",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "andreas",
+  "contributors": [],
+  "dependencies": {
+    "express": "4.13.3"
+  },
+    "scripts": {
+        "start": "node server.js"
+    }
+
+}
